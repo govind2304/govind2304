@@ -1,3 +1,6 @@
+<h1 style="color: #0000FF; text-align: center;">M GOVIND MUKHIYA</h1>
+
+
 # 💫 About Me:
 Hi there! <strong> I’m Govind Mukhiya</strong>, a Computer Science student specializing in Artificial Intelligence and Machine Learning. I have a strong passion for developing innovative solutions and have hands-on experience in web development, machine learning, and UI/UX design.<br><br>Currently, I’m working as an intern, gaining practical experience and contributing to real-world projects. My previous internships include device testing for <strong> OnePlus Nord CE 4</strong> and <strong>Oppo A3x</strong>, where I identified valid bugs and received payments for successful reports.<br><br>In my free time, I enjoy working on personal projects, such as a digital bus pass system using NFC technology and a portfolio website to showcase my work. I’m always eager to learn new technologies and take on challenging projects.<br><br>Feel free to connect with me on LinkedIn or check out my projects on GitHub.
 
